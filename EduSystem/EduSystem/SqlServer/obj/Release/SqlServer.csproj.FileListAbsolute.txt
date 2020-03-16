@@ -1,8 +1,0 @@
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\bin\Release\SqlServer.dll
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\bin\Release\SqlServer.pdb
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\bin\Release\SqlSugar.dll
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\bin\Release\Newtonsoft.Json.dll
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\obj\Release\SqlServer.csprojAssemblyReference.cache
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\obj\Release\SqlServer.csproj.CopyComplete
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\obj\Release\SqlServer.dll
-C:\Users\zhongqing\Desktop\EduSystem\SqlServer\obj\Release\SqlServer.pdb
