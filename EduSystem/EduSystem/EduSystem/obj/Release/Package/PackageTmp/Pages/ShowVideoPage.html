@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <script src="../JS/ckplayer.js"></script>
+    <script src="../JS/layui/layui.js"></script>
+    <link href="../JS/layui/css/layui.css" rel="stylesheet" />
+    <script src="../JS/jquery-3.4.1.min.js"></script>
+    <title></title>
+</head>
+<body>
+    <div class="layui-form-item">
+        <font color="#FF0000">www.divcss5.com 颜色</font>
+    </div>
+    <script>
+        var _phone = GetQueryString("phone");
+        var _videoNo = GetQueryString("VideoNo");
+        alert(_phone);
+        alert(_videoNo);
+
+        function GetQueryString(name) {
+            var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+            var r = window.location.search.substr(1).match(reg);
+            if (r != null) return decodeURIComponent(r[2]); return null;
+        }
+    </script>
+</body>
+</html>
