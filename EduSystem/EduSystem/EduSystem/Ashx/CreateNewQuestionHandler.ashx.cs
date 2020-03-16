@@ -20,6 +20,7 @@ namespace EduSystem.Ashx
         DbBase db = new DbBase();
         List<string> ls1 = new List<string>() { "yes" };
         List<string> ls2 = new List<string>() { "no" };
+        List<string> ls3 = new List<string>() { "no" };
         public void ProcessRequest(HttpContext context)
         {
             context.Response.ContentType = "application/json";
